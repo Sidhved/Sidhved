@@ -2,4 +2,4 @@
 - 👀 I’m interested in working on Computer Vision, Machine Learning Models and Neural Networks, and Android Projects
 - 🌱 I’m currently learning BTech CSE (specialization in AI & ML) and simultaneously exploring the field of Computer Vision
 - 💞️ I’m looking to collaborate on projects revolving around GeoProcessing of Interterestrial Objects and Remote Sensing
-- 📫 Reach out to me by my LinkedIn Profile: [Link](https://www.linkedin.com/in/sidhved-warik-b05aab173/)
+- 📫 Connect with me via LinkedIn: [Link](https://www.linkedin.com/in/sidhved-warik-b05aab173/)
