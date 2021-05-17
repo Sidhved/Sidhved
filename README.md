@@ -1,3 +1,4 @@
+![Header](https://github.com/Sidhved/Sidhved/blob/main/Assets/BringMeCoffee.gif "Header")
 
 # Hey, folks! <img src="https://github.com/Sidhved/Sidhved/blob/main/Assets/wave.gif" width="30px">
 
