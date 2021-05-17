@@ -1,13 +1,20 @@
-# Hey, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey, folks! <img src="https://github.com/Sidhved/Sidhved/blob/main/Assets/wave.gif" width="30px">
 
-- 👋 Hi, Myself Sidhved
-- 👀 I’m interested in working on Computer Vision, Machine Learning Models and Neural Networks, and Android Projects
-- 🌱 I’m currently learning BTech CSE (specialization in AI & ML) and simultaneously exploring the field of Computer Vision
-- 💞️ I’m looking to collaborate on projects revolving around Remote Sensing and Computer Vision
-- 📫 Connect with me via LinkedIn: [Link](https://www.linkedin.com/in/sidhved-warik-b05aab173/)
+👋 Hi, Myself Sidhved
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sidhved&theme=dark)](https://git.io/streak-stats)
+👀 I’m interested in working on Computer Vision, Machine Learning Models and Neural Networks, and Android Projects
 
-[![Sidhved's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sidhved&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+🌱 I’m currently learning BTech CSE (specialization in AI & ML) and simultaneously exploring the field of Computer Vision
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidhved&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+💞️ I’m looking to collaborate on projects revolving around Remote Sensing and Computer Vision
+
+📫 Connect with me via LinkedIn: [Link](https://www.linkedin.com/in/sidhved-warik-b05aab173/)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sidhved&theme=dark&show_icons=true)](https://git.io/streak-stats)
+
+<a href="https://github.com/Sidhved/Sidhved">
+  <img align="center" src="https://github-readme-stats.vercel.app/api//?username=Sidhved&theme=dark&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/Sidhved/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidhved&layout=compact&theme=dark&count_private=true&show_icons=true" />
+</a>
