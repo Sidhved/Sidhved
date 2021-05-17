@@ -2,15 +2,23 @@
 
 # Hey, folks! <img src="https://github.com/Sidhved/Sidhved/blob/main/Assets/wave.gif" width="30px">
 
-⚡ Hi, Myself Sidhved
+⚡ Hi there, Myself Sidhved
 
-⚡ I’m interested in working on Computer Vision👀, Machine Learning Models🤖 and Neural Networks, and Android Projects📱
+⚡ I’m interested in contributing in OpenSource Projects and working on Computer Vision👀, Machine Learning Models🤖 and Neural Networks, and Android Projects📱
 
 ⚡ I’m currently learning BTech CSE (specialization in AI & ML) from VIT, Bhopal
 
 ⚡ I’m looking to collaborate on projects revolving around Remote Sensing and Computer Vision
 
-📫 Connect with me via LinkedIn: [Link](https://www.linkedin.com/in/sidhved-warik-b05aab173/)
+## Connect With Me:
+[<img align="left" alt="Sidhved | LinkedIn" width="125px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="Sidhved | Instagram" width="140px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img align="left" alt="Sidhved | Gmail" width="100px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
+[<img align="left" alt="Sidhved | Discord" width="125px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />][discord]
+[<img align="left" alt="Sidhved | GitHub" width="120px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][github]
+[<img align="left" alt="Sidhved | StackOverflow" width="200px" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />][stackoverflow]
+
+<br />
 
 # My Stats! <img src="https://github.com/Sidhved/Sidhved/blob/main/Assets/stat.gif" width="30px">
 
@@ -24,3 +32,11 @@
 </a>
 
 # Technologies & Tools <img src="https://github.com/Sidhved/Sidhved/blob/main/Assets/gear.gif" width ="30px">
+
+
+[linkedin]: https://www.linkedin.com/in/sidhved-warik/
+[instagram]: https://www.instagram.com/sidhved_1509/
+[gmail]: sidhved.warik@gmailcom
+[discord]: https://discord.gg/user/Sid_51#6315
+[github]: https://github.com/Sidhved
+[stackoverflow]: https://stackoverflow.com/users/15524844/sidhved?tab=profile
