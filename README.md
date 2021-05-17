@@ -18,7 +18,12 @@
 [<img align="left" alt="Sidhved | GitHub" width="120px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][github]
 [<img align="left" alt="Sidhved | StackOverflow" width="200px" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />][stackoverflow]
 
-<br />
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 # My Stats! <img src="https://github.com/Sidhved/Sidhved/blob/main/Assets/stat.gif" width="30px">
 
