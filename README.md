@@ -34,9 +34,7 @@
 <a href="https://github.com/Sidhved/Sidhved">
   <img align="center" src="https://github-readme-stats.vercel.app/api//?username=Sidhved&theme=dark&count_private=true&show_icons=true" />
 </a>
-<a href="https://github.com/Sidhved/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidhved&layout=compact&theme=dark&count_private=true&show_icons=true" />
-</a>
+
 
 # Technologies & Tools <img src="https://github.com/Sidhved/Sidhved/blob/main/Assets/gear.gif" width ="30px">
 <img align="left" alt="Sidhved | Python" width="120px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
