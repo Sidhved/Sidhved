@@ -35,7 +35,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api//?username=Sidhved&theme=dark&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/Sidhved/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidhved&layout=compact&theme=dark&count_private=true&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidhved&layout=compact&theme=dark&count_private=true&show_icons=true&langs_count=8" />
 </a>
 
 # Technologies & Tools <img src="https://github.com/Sidhved/Sidhved/blob/main/Assets/gear.gif" width ="30px">
